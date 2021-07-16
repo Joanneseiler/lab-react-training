@@ -1,0 +1,19 @@
+#id-card {
+    height: 128px;
+    padding: 4px;
+    width: 70%;
+}
+
+span.property-key {
+    font-weight: bold;
+}
+
+#id-card img {
+    box-sizing: border-box;
+    height: 100%;
+    margin-right: 8px;
+}
+
+#id-card p {
+    margin: 0;
+}
